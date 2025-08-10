@@ -3,7 +3,7 @@
 
 ## 🧕 About Me    
 🔹 I'm a **passionate Frontend Developer** who thrives on building seamless, high-performance web and mobile applications. 
- 🔹 Currently exploring **React Native** to create cross-platform mobile apps. 
+🔹 Currently exploring **React Native** to create cross-platform mobile apps. 
 <!-- 🔹 Currently exploring **React Native** to create cross-platform mobile apps. Recently, I developed an eCommerce app, [Ratokunbo](https://play.google.com/store/apps/details?id=com.ratokunbo.mobile&pli=1). -->
 🔹 Experienced in **React.js** and **Next.js**, with a focus on creating **intuitive, responsive, and accessible** user interfaces.  
 🔹 **Open to collaboration** on **innovative frontend projects** 
