@@ -18,7 +18,8 @@
 ✅ **State Management:** Redux Toolkit, Zustand  
 ✅ **Testing:** Vitest, Jest, React Testing Library  
 ✅ **APIs:** REST & GraphQL  
-✅ **Cloud & DevOps:** AWS, Vercel, Firebase, Supabase, Appwrite, MongoDB  
+✅ **Backend & Database:** MongoDB, Firebase, Supabase, Appwrite  
+✅ **Cloud & DevOps:** AWS, Vercel  
 ✅ **Version Control:** Git, GitHub, GitHub Actions  
 
 
