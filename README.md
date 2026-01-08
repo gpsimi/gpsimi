@@ -13,12 +13,12 @@
 
 ## 🛠 Tech Stack  
 ✅ **Languages:** JavaScript (ES6+), TypeScript  
-✅ **Frontend:** React.js, Next.js, React Native  
-✅ **Styling:** Tailwind CSS, Shadcn/UI, Styled Components  
+✅ **Frontend:** React.js, Next.js, React Native, Expo  
+✅ **Styling:** Tailwind CSS, Nativewind, Shadcn/UI, Chakra UI, Material UI, Styled Components  
 ✅ **State Management:** Redux Toolkit, Zustand  
 ✅ **Testing:** Vitest, Jest, React Testing Library  
 ✅ **APIs:** REST & GraphQL  
-✅ **Cloud & DevOps:** AWS, Vercel, Firebase  
+✅ **Cloud & DevOps:** AWS, Vercel, Firebase, Supabase, Appwrite, MongoDB  
 ✅ **Version Control:** Git, GitHub, GitHub Actions  
 
 
