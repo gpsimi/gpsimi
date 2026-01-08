@@ -19,7 +19,7 @@
 ✅ **Testing:** Vitest, Jest, React Testing Library  
 ✅ **APIs:** REST & GraphQL  
 ✅ **Backend & Database:** MongoDB, Firebase, Supabase, Appwrite  
-✅ **Cloud & DevOps:** AWS, Vercel  
+✅ **Cloud & DevOps:** AWS, Vercel, Netlify  
 ✅ **Version Control:** Git, GitHub, GitHub Actions  
 
 
