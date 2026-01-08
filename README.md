@@ -18,6 +18,7 @@
 ✅ **State Management:** Redux Toolkit, Zustand  
 ✅ **Testing:** Vitest, Jest, React Testing Library  
 ✅ **APIs:** REST & GraphQL  
+✅ **CMS:** WordPress, PayloadCMS, Sanity.io, MedusaCMS, Strapi  
 ✅ **Backend & Database:** MongoDB, Firebase, Supabase, Appwrite  
 ✅ **Cloud & DevOps:** AWS, Vercel, Netlify  
 ✅ **Version Control:** Git, GitHub, GitHub Actions  
